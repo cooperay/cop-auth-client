@@ -7,7 +7,7 @@ import com.cooperay.common.entity.BaseEntity;
 public class Account extends BaseEntity {
 	private static final long serialVersionUID = 1L;
 
-	private Long id;
+	private Long id; 
 
     private String cname;
 
